@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# SQLite databases
+*.db
+
+# Generated CSV files (optional)
+cleaned_sales.csv
+
+# Power BI cache
+*.pbix.autosave
+
+# OS files
+.DS_Store
+Thumbs.db
